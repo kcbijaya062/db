@@ -1,0 +1,28 @@
+﻿
+
+@{
+    ViewData["Title"] = "My Movies";
+    
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewData["Title"] - MovieLists</title>
+    <!-- Latest Bootstrap 5 -->
+    
+       <link rel="stylesheet" type="text/css" href="~/lib/bootstrap/dist/css/bootstrap.min.css">
+    
+
+</head>
+<body>
+    <div class="container">
+        <header class="p-4 mb-3 bg-light border">
+            <h1>My Movies</h1>
+        </header> @RenderBody()
+    </div>
+</body>
+</html>

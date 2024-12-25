@@ -1,0 +1,572 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\views\\shared\\_mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\areas\\admin\\views\\category\\addupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\areas\\admin\\views\\category\\addupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\areas\\admin\\controllers\\cateogrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\areas\\admin\\controllers\\cateogrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\areas\\admin\\views\\product\\addupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\areas\\admin\\views\\product\\addupdate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\migrations\\20240415184551_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\migrations\\20240415184551_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\models\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\models\\shopcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\areas\\admin\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\areas\\admin\\views\\product\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\areas\\admin\\views\\category\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\areas\\admin\\views\\category\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\areas\\admin\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\views\\cart\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\views\\cart\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|c:\\users\\kecyb\\source\\repos\\ch07ex1guitarshop\\ch07ex1guitarshop\\guitarshop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA5B8238-627D-4A6B-95D1-3FE0BB568BBE}|GuitarShop\\GuitarShop.csproj|solutionrelative:guitarshop\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GuitarShop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GuitarShop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T00:27:20.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Views\\Home\\ContactUs.cshtml",
+              "RelativeDocumentMoniker": "GuitarShop\\Views\\Home\\ContactUs.cshtml",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Views\\Home\\ContactUs.cshtml",
+              "RelativeToolTip": "GuitarShop\\Views\\Home\\ContactUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T00:48:09.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "GuitarShop\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "GuitarShop\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T00:27:20.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "GuitarShop\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "GuitarShop\\Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T00:27:20.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "GuitarShop\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:27:20.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Views\\Product\\List.cshtml",
+              "RelativeDocumentMoniker": "GuitarShop\\Views\\Product\\List.cshtml",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Views\\Product\\List.cshtml",
+              "RelativeToolTip": "GuitarShop\\Views\\Product\\List.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwDYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T00:27:20.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GuitarShop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:27:20.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GuitarShop\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:27:20.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_MainLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeDocumentMoniker": "GuitarShop\\Views\\Shared\\_MainLayout.cshtml",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Views\\Shared\\_MainLayout.cshtml",
+              "RelativeToolTip": "GuitarShop\\Views\\Shared\\_MainLayout.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T00:27:20.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "GuitarShop\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "GuitarShop\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T00:27:20.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "GuitarShop\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAgwHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:27:20.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AddUpdate.cshtml",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Areas\\Admin\\Views\\Category\\AddUpdate.cshtml",
+              "RelativeDocumentMoniker": "GuitarShop\\Areas\\Admin\\Views\\Category\\AddUpdate.cshtml",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Areas\\Admin\\Views\\Category\\AddUpdate.cshtml",
+              "RelativeToolTip": "GuitarShop\\Areas\\Admin\\Views\\Category\\AddUpdate.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T00:27:20.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Program.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Program.cs",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Program.cs",
+              "RelativeToolTip": "GuitarShop\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAawB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:27:20.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "GuitarShop\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "GuitarShop\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAABgAAAAAAABp8m8XwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T00:27:20.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddUpdate.cshtml",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Areas\\Admin\\Views\\Product\\AddUpdate.cshtml",
+              "RelativeDocumentMoniker": "GuitarShop\\Areas\\Admin\\Views\\Product\\AddUpdate.cshtml",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Areas\\Admin\\Views\\Product\\AddUpdate.cshtml",
+              "RelativeToolTip": "GuitarShop\\Areas\\Admin\\Views\\Product\\AddUpdate.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T00:27:20.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CateogryController.cs",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Areas\\Admin\\Controllers\\CateogryController.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Areas\\Admin\\Controllers\\CateogryController.cs",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Areas\\Admin\\Controllers\\CateogryController.cs",
+              "RelativeToolTip": "GuitarShop\\Areas\\Admin\\Controllers\\CateogryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:27:20.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "GuitarShop\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "GuitarShop\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T00:27:20.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ShopContext.cs",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Models\\ShopContext.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Models\\ShopContext.cs",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Models\\ShopContext.cs",
+              "RelativeToolTip": "GuitarShop\\Models\\ShopContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:27:20.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\appsettings.json",
+              "RelativeDocumentMoniker": "GuitarShop\\appsettings.json",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\appsettings.json",
+              "RelativeToolTip": "GuitarShop\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-08T00:27:20.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240415184551_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Migrations\\20240415184551_Initial.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Migrations\\20240415184551_Initial.cs",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Migrations\\20240415184551_Initial.cs",
+              "RelativeToolTip": "GuitarShop\\Migrations\\20240415184551_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:27:20.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "GuitarShop\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "GuitarShop\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T00:27:20.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Areas\\Admin\\Views\\Product\\List.cshtml",
+              "RelativeDocumentMoniker": "GuitarShop\\Areas\\Admin\\Views\\Product\\List.cshtml",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Areas\\Admin\\Views\\Product\\List.cshtml",
+              "RelativeToolTip": "GuitarShop\\Areas\\Admin\\Views\\Product\\List.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAIwDYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T00:27:20.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "GuitarShop\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "GuitarShop\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T00:27:20.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GuitarShop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GuitarShop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T00:27:20.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Areas\\Admin\\Views\\Category\\List.cshtml",
+              "RelativeDocumentMoniker": "GuitarShop\\Areas\\Admin\\Views\\Category\\List.cshtml",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Areas\\Admin\\Views\\Category\\List.cshtml",
+              "RelativeToolTip": "GuitarShop\\Areas\\Admin\\Views\\Category\\List.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T00:27:20.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "GuitarShop\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "GuitarShop\\Areas\\Admin\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T00:27:20.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Views\\Cart\\Add.cshtml",
+              "RelativeDocumentMoniker": "GuitarShop\\Views\\Cart\\Add.cshtml",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Views\\Cart\\Add.cshtml",
+              "RelativeToolTip": "GuitarShop\\Views\\Cart\\Add.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T00:27:20.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Models\\Category.cs",
+              "RelativeToolTip": "GuitarShop\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:27:20.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "GuitarShop\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "GuitarShop\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T00:27:20.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GuitarShop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GuitarShop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T00:27:20.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "GuitarShop\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "GuitarShop\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-08T00:27:20.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Models\\Product.cs",
+              "RelativeToolTip": "GuitarShop\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:27:20.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "GuitarShop\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\kecyb\\source\\repos\\Ch07Ex1GuitarShop\\Ch07Ex1GuitarShop\\GuitarShop\\Controllers\\CartController.cs",
+              "RelativeToolTip": "GuitarShop\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T00:27:20.786Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

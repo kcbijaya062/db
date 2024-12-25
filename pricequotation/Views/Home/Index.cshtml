@@ -1,0 +1,40 @@
+﻿@model pricequotation.Models.PriceQuotationModel
+
+@{
+    ViewBag.Title = "Price Quotation";
+}
+
+<h1>Price Quotation</h1>
+
+<!-- Form to POST data to the Index action in HomeController -->
+<form asp-action="Index" method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <div>
+        <label>Subtotal:</label>
+        <input type="number" asp-for="Subtotal" step="1.00" value="@Model.Subtotal?.ToString("F2")" />
+        
+    </div>
+
+    <div>
+        <label>Discount percent:</label>
+        <input type="number" asp-for="DiscountPercent" step="1.00" value="@Model.DiscountPercent?.ToString("F2")" />
+        
+    </div>
+
+    <div>
+        <label>Discount amount:</label>
+        <span>@Model.DiscountAmount?.ToString("C")</span>
+    </div>
+
+    <div>
+        <label>Total:</label>
+        <span>@Model.Total?.ToString("C")</span>
+    </div>
+
+    <button type="submit">Calculate</button>
+    <a asp-action="Index">Clear</a>
+</form>
+
+
+
