@@ -1,1 +1,0 @@
-// Copy from your exam paper as is (ODD number seats)
